@@ -1,0 +1,8 @@
+#!/bin/bash
+PYFILE=$PYFILE
+if [ -z "$PYFILE"];
+then 
+echo "Error: PYFILE environment is not set."
+exit 1
+fi
+python3 "$PYFILE"

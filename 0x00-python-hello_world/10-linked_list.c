@@ -28,7 +28,7 @@ size_t print_listint(const listint_t *h)
  * @n: integer to be included in node
  * Return: address of the new element or NULL if it fails
  */
-listint_t *add_nodeint(listint_t**head, const int n)
+listint_t *add_nodeint(listint_ t**head, const int n)
 {
 	listint_t *new;
 	new = malloc(sizeof(listint_t));

@@ -56,6 +56,6 @@ This module covers the fundamental concepts of data structures in Python, focusi
 
 ## Acknowledgments
 
-This module is part of the [ALX Africa SE](https://www.alxafrica.com/) curriculum. Special thanks to the Holberton staff for their support and guidance.
+This module is part of the [ALX Africa SE](https://www.alxafrica.com/) curriculum. Special thanks to the ALX Africa staff for their support and guidance.
 
 Feel free to contribute or report issues in the [GitHub repository](https://github.com/amamandamadlingozi/0x03-python-data_structures).

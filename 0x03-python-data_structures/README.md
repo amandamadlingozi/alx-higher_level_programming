@@ -33,7 +33,7 @@ This module covers the fundamental concepts of data structures in Python, focusi
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/0x03-python-data_structures.git
+    git clone https://github.com/amandamadlingozi/0x03-python-data_structures.git
     ```
 
 2. Navigate to the directory:
